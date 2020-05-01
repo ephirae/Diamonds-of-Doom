@@ -1,2 +1,2 @@
 # Diamonds-of-Doom
-A simple C game where you pilot a ship and shoot diamonds
+A simple C game where you pilot a ship and shoot diamonds, playable in the console
